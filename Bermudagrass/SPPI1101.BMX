@@ -251,8 +251,8 @@ Piracicaba, SP, Brazil
  1 NI              0     0     0 FE001 GS000
 @N RESIDUES    RIPCN RTIME RIDEP
  1 RE              0     0     0
-@N HARVEST     HFRST HLAST HPCNP HPCNR
- 1 HA              0 00001     0     0
+@N HARVEST     HFRST HLAST HPCNP HPCNR HMFRQ HMGDD HMCUT HMMOW HRSPL HMVS
+ 1 HA              0 00001     0     0    42   800  0.10  3000    30    3
 
 
 
